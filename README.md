@@ -6,6 +6,8 @@ MotionRugs is a novel dense pixel display technique for the visualization of col
 
 Read our publication with details here: https://bib.dbvis.de/publications/details/764
 
+Quick video overview on MotionRugs available here: https://youtu.be/xSewCmdgN40
+
 With the code provided in this repository, you can create your own MotionRugs! Just be sure to read the following comments first.
 
 ## General Information
